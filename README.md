@@ -1,4 +1,4 @@
-Flask based APP Sekeleton
+Flask based APP Skeleton
 ==
 
 
